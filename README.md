@@ -1,4 +1,5 @@
-# kaksss<!DOCTYPE html><html lang="en">
+# kaksss
+<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -99,6 +100,12 @@
       <p>Description here</p>
       <button class="buy-btn">Beli</button>
     </div>
+      <h3>Product Name</h3>
+      <p>Description here</p>
+      <button class="buy-btn">Beli</button>
+    </div>
+    <div class="product">
+      <img src="assets/placeholder.png" alt="Product 3">
     <!-- Tambahin produk lain di sini -->
   </section>
 </body>
