@@ -89,13 +89,13 @@
   <header>nvg</header>
   <section class="product-grid">
     <div class="product">
-      <img src="https://github.com/kaka6ix/kaksss/blob/16b35c92ba5d6621aef3c179f65546a4c9840cf2/PXL_10-04-2025_15-23-37_UtanKaliki_MTSL8.3_V6_Gopix_Redmi9.jpg alt="Product 1">
+      <
       <h3>Product Name</h3>
       <p>Description here</p>
       <button class="buy-btn">Beli</button>
     </div>
     <div class="product">
-      <img src="assets/placeholder.png" alt="Product 2">
+      <img src="https://github.com/kaka6ix/kaksss/blob/16b35c92ba5d6621aef3c179f65546a4c9840cf2/PXL_10-04-2025_15-23-37_UtanKaliki_MTSL8.3_V6_Gopix_Redmi9.jpg" alt="Product 2">
       <h3>Product Name</h3>
       <p>Description here</p>
       <button class="buy-btn">Beli</button>
@@ -103,7 +103,7 @@
       <h3>Product Name</h3>
       <p>Description here</p>
       <button class="buy-btn">Beli</button>
-    </div>
+      <img> src="https://github.com/kaka6ix/kaksss/blob/16b35c92ba5d6621aef3c179f65546a4c9840cf2/PXL_10-04-2025_15-23-37_UtanKaliki_MTSL8.3_V6_Gopix_Redmi9.jpg"
     <div class="product">
       <img src="assets/placeholder.png" alt="Product 3">
     <!-- Tambahin produk lain di sini -->
